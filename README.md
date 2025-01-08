@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A 2nd year software engineering student based in Auckland, New Zealand</h3>
 
-- 🌐 Check out my personal website **PLACEHOLDER** :3
+- 🌐 Check out my personal website <a href="http://www.samrichellsmith.com/">here</a> :3
 
 - 📫 How to reach me **samrs6012@gmail.com**
 
